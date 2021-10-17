@@ -13,9 +13,8 @@ _class:
 -->
 
 # Discussion: DRUID 2021 Session - Organisation Behaviour
-#### Roman Jurowetzki, Aalborg University Business School, DK
+Roman Jurowetzki, Aalborg University Business School, DK
 
-Presentations to Webpages: Instantly!
 
 ## What?
 
