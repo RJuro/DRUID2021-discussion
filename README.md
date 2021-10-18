@@ -26,8 +26,15 @@ Jiho Yang, Paola Criscuolo
 
 - unbundling of **R & D**
 - centralization vs decentralization of development
-_ 
+- avoiding duplication vs ensuring implementation
+- additional contributions strategic organization
 
+## Feedback
+- Extremely well written
+- Detailed view on R&D
+- Nice case and rich data
+- Relevant results / managerial implications
+- Can you be more explicit about your fundings upfront?
 
 # The relational value of innovation units
 Katherine Tatarinov, Tina Ambos, Julian Birkinshaw
