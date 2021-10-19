@@ -69,7 +69,7 @@ Ed Saiedi, Simon Okwir, Vikash Sinha
 
 
 ## Feedback
-- role of industry 
+- role of industry
 >innovation configuration leading to high firm performance are greatly influenced by the industrial context
 - Is it a part of the German CIS?
 - wordy (I'm no expert in this particular area)
