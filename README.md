@@ -9,7 +9,7 @@ class:
 headingDivider: 2 
 paginate: true
 -->
-s
+
 <!--
 _class:
  - leads
@@ -43,11 +43,21 @@ Jiho Yang, Paola Criscuolo
 Katherine Tatarinov, Tina Ambos, Julian Birkinshaw
 
 ## Recap
-- Ambidexterity
+- Ambidexterity in innovation units
 - Do innovation units contribute more than just with product/process innovation?
 - are they shaping valuable relations in the organization?
-- mandates
-- WHO case
+- Propositions
+    - Complexity of the context and relational value (positive link)
+    - Breadth (scope) of the relational value i.e. internal/external; linking/building vs longevity and legitimity (positive link)
+    - Evolution of the organizations - processes of ambidexterity and integration
+
+## Feedback
+
+- exciting case within a "mission-oriented" context
+- awareness of the potential transferability issues to to other settings
+- Managerial implications
+- Could there be a quantitative follow-up?
+
 
 # Innovation configurations and firm performance: an fsQCA approach
 Ed Saiedi, Simon Okwir, Vikash Sinha
