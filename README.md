@@ -24,8 +24,7 @@ Jiho Yang, Paola Criscuolo
 
 ## Recap
 
-* **How does organizational structure influence development outcomes?**
-* unbundling of **R & D** - 
+* **How does organizational structure influence development outcomes?** - R&D unbundling
 * centralization of development and mechanisms influencing innovative outcomes
 * avoiding duplication vs ensuring implementation (transaction costs when transferring outcomes across units)
 * it depends: "...need for considering the nature of tasks when predicting the effect of organization structure on firm outcomes."
@@ -53,7 +52,6 @@ Katherine Tatarinov, Tina Ambos, Julian Birkinshaw
 * Ambidexterity in innovation units
 * Do innovation units contribute more than just with product/process innovation?
 * are they shaping valuable relations in the organization?
-* Innovation is an interactive process after all...
 * Propositions
     * Complexity of the context and relational value (positive link)
     * Breadth (scope) of the relational value i.e. internal/external; linking/building vs longevity and legitimity (positive link)
